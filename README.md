@@ -15,7 +15,7 @@
                         <blockquote><small>
                             How do you store the data?</small>
                         </blockquote>
-                        <p>Data is being encryped before insertion in database using AES algorithm with a defined key. You can check the dump over <a href="/dbdump">here</a> <p>
+                        <p>Data is being encryped before insertion in database using AES algorithm with a defined key. You can check the dump over <a href="http://securenger.herokuapp.com/dbdump">here</a> <p>
                         </p>
                         <p>
                             <blockquote><small>
