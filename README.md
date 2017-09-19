@@ -9,7 +9,7 @@
                    <p><blockquote><small>
                         Does the project have all the required pages and functionality?</small>
                     </blockquote></p>
-                    <p>Yes. Login page, Registration page, Home (inbox) page, Message Sending page, Database Dump page, along with others. All working fine .. you can check my live demo here. <p>
+                    <p>Yes. Login page, Registration page, Home (inbox) page, Message Sending page, Database Dump page, along with others. All working fine .. you can check my live demo <a href="https://streamable.com/1u23q">here</a> <p>
                     </p>
                     <p>
                         <blockquote><small>
